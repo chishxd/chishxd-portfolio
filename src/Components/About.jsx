@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/coding.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "A computer with code on the screen";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a AIML enthusiast with a passion for creating innovative solutions that leverage the power of artificial intelligence and machine learning. I am dedicated to continuous learning and growth in this exciting field.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am enthusiastic about the potential of AI and ML to transform industries and improve lives. I am committed to staying at the forefront of this rapidly evolving field and contributing to its advancement through my work.";
 
 const About = () => {
   return (
